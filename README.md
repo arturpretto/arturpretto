@@ -1,4 +1,4 @@
-# 💫 Sobre Mim:
+# 🙍‍♂️ Sobre Mim:
 Estudante de Análise e Desenvolvimento de Sistemas<br>Aprendendo React e NextJS<br>Desenvolvendo um E-Commerce
 
 
