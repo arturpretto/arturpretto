@@ -1,5 +1,6 @@
 # 🙍‍♂️ Sobre Mim:
-Estudante de Análise e Desenvolvimento de Sistemas<br>Aprendendo React e NextJS<br>Desenvolvendo um E-Commerce
+Estudante de Análise e Desenvolvimento de Sistemas<br>Aprendendo React
+<br>Desenvolvendo um E-Commerce
 
 
 ## 🌐 Social:
