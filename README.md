@@ -1,14 +1,14 @@
 # Artur Pretto - Front End Developer
 
-## ➥ Sobre mim:
-- Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Web com experiência em software, hardware, tecnologia e criação de aplicações Web.
-- 🌱 Aprendendo Front-end, React, Node JS
-- ✍️ Desenvolvendo um [Marketplace](https://github.com/arturpretto/Projeto-FrontEnd-FutDigital.git)
-- 📄 Saiba sobre minhas experiências [Currículo](https://docs.google.com/document/d/1RoVLgJTv4x_BqmV8RI0t2b5xpjiwEmqoEPt9UfzFcVA/edit?usp=drive_link)
+## ➥ About me:
+- Student of Systems Analysis & Development and Web Developer with experience on software, hardware, tecnology and Web aplications.
+- 🌱 Learning Front-end, React, Node JS
+- ✍️ Developing a [Marketplace](https://github.com/arturpretto/Projeto-FrontEnd-FutDigital.git)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1RoVLgJTv4x_BqmV8RI0t2b5xpjiwEmqoEPt9UfzFcVA/edit?usp=drive_link)
 
 ---
 
-## ➥ Habilidades:
+## ➥ Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,express,firebase,nodejs,notion,prisma,react,vercel,vite,vscode)](https://skillicons.dev)
 
 ---
@@ -20,5 +20,5 @@
 
 ---
 
-## ➥ Me contate:
+## ➥ Reach out to me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pretto1976) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturpretto1976/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arturpretto@outlook.com) 
