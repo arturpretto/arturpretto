@@ -9,7 +9,7 @@
 ---
 
 ## ➥ Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,express,firebase,nodejs,notion,prisma,react,vercel,vite,vscode,render)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,express,firebase,nodejs,notion,prisma,react,vercel,vite,vscode)](https://skillicons.dev)
 
 ---
 
