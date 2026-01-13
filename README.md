@@ -1,6 +1,7 @@
 # Artur Pretto - Front End Developer
 
 ## ➥ Sobre mim:
+- Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Web com experiência em software, hardware, tecnologia e criação de aplicações Web.
 - 🌱 Aprendendo Front-end, React, Node JS
 - ✍️ Desenvolvendo um [Marketplace](https://github.com/arturpretto/Projeto-FrontEnd-FutDigital.git)
 - 📄 Saiba sobre minhas experiências [Currículo](https://docs.google.com/document/d/1RoVLgJTv4x_BqmV8RI0t2b5xpjiwEmqoEPt9UfzFcVA/edit?usp=drive_link)
