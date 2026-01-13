@@ -1,7 +1,7 @@
 ## 👨‍🦰Sobre mim:
 - 🌱 Estou aprendendo Front-end, React, Node JS
 - ✍️ Estou desenvolvendo um [Marketplace](https://github.com/arturpretto/Projeto-FrontEnd-FutDigital.git)
-- 📄 Saiba sobre minhas experiências em meu [Currículo]([https://docs.google.com/document/d/1KEUYivkeauqi31ClEd90m8tHeBhYHezrH36yIxFy-bQ/edit?usp=drive_link](https://docs.google.com/document/d/1RoVLgJTv4x_BqmV8RI0t2b5xpjiwEmqoEPt9UfzFcVA/edit?usp=drive_link))
+- 📄 Saiba sobre minhas experiências em meu [Currículo](https://docs.google.com/document/d/1RoVLgJTv4x_BqmV8RI0t2b5xpjiwEmqoEPt9UfzFcVA/edit?usp=drive_link)
 
 # 🌐 Me contate:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pretto1976) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/artur-pretto-497023358/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arturpretto@outlook.com) 
