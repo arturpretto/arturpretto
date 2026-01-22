@@ -1,7 +1,7 @@
 # Artur Pretto - Front End Developer
 
 ## ➥ About me:
-- Student of Systems Analysis & Development and Web Developer with experience on software, hardware, tecnology and Web aplications.
+- Student of Systems Analysis & Development and Web Developer with experience on software, hardware, tecnology and Web applications.
 - 🌱 Learning Front-end, React, Node JS
 - ✍️ Developing a [Marketplace](https://github.com/arturpretto/Projeto-FrontEnd-FutDigital.git)
 - 📄 Know about my experiences [CV](https://docs.google.com/document/d/1RoVLgJTv4x_BqmV8RI0t2b5xpjiwEmqoEPt9UfzFcVA/edit?usp=drive_link)
