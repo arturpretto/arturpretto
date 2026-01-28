@@ -9,7 +9,12 @@
 ---
 
 ## ➥ Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,express,firebase,nodejs,notion,prisma,react,vercel,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,notion,prisma,vite,vscode)](https://skillicons.dev)
+
+---
+
+## ➥ Learning:
+[![My Skills](https://skillicons.dev/icons?i=figma,express,nodejs,react,vercel)](https://skillicons.dev)
 
 ---
 
