@@ -11,9 +11,7 @@
 ## ➥ Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,notion,prisma,vite,vscode)](https://skillicons.dev)
 
----
-
-## ➥ Learning:
+### ➥ Learning:
 [![My Skills](https://skillicons.dev/icons?i=figma,express,nodejs,react,vercel)](https://skillicons.dev)
 
 ---
