@@ -21,8 +21,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=arturpretto&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arturpretto&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arturpretto&theme=nord&show_icons=true&hide_border=true&count_private=true)
-
 ---
 
 ## ➥ Reach out to me:
