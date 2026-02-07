@@ -9,7 +9,7 @@
 ---
 
 ## ➥ Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,notion,prisma,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,prisma,vite)](https://skillicons.dev)
 
 ### ➥ Learning:
 [![My Skills](https://skillicons.dev/icons?i=figma,express,nodejs,react,vercel)](https://skillicons.dev)
@@ -20,6 +20,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=arturpretto&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arturpretto&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arturpretto&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arturpretto&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
